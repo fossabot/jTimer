@@ -1,6 +1,7 @@
 # jTimer
 [![NPM version][npm-version-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-url]
 [![MIT License][license-image]][license-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaazebislam%2FjTimer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaazebislam%2FjTimer?ref=badge_shield)
 
 It's a jquery plugin for time that control  the time with a structure like strftime with a high perfomance.
 
@@ -89,3 +90,6 @@ jTimer is freely distributable under the terms of the [MIT license](https://gith
 [license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license-url]: LICENSE
 [npm-url]: https://npmjs.org/package/jtimer
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaazebislam%2FjTimer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaazebislam%2FjTimer?ref=badge_large)
