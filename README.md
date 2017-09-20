@@ -11,7 +11,7 @@ When you use jTimer for get time with a structure that contains second you run a
 
 ## Licence
 
-jTimer is freely distributable under the terms of the [MIT license](https://github.com/laazebislam/jTimer/LICENSE
+jTimer is freely distributable under the terms of the [MIT license](https://github.com/laazebislam/jTimer/blob/master/LICENSE)
 
 [license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
 [license-url]: LICENSE
